@@ -1,0 +1,5 @@
+ip=127.0.0.1
+user=root
+pwd=root
+database=new_hudong
+port=3306
